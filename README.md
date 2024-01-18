@@ -1,4 +1,4 @@
-#  Joint Edge-aware and Global context for polyp segmentation with cross-layer mapping
+#  GCNet: Global context-guided uncertainty boundary for polyp segmentation
 
 
 ##  Requirements
