@@ -16,7 +16,7 @@
 <p align="center">
     <img src="imgs/NETWORK.png"/> <br />
     <em> 
-    Figure 1: Overview of the proposed JEGNet.
+    Figure 1: Overview of the proposed GCNet.
     </em>
 </p>
 
